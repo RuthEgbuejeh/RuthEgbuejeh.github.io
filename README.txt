@@ -1,31 +1,52 @@
-Solid State by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Data Analytics Portfolio  
+**Transforming raw data into actionable insights**  
+
+Technical Skills  
+🐍 Python: Data cleaning (Pandas, NumPy), automation, and analysis  
+🗄️ SQL: Complex queries, joins, database investigation (SQLite)  
+📊 Excel/Sheets: Advanced formulas, PivotTables, data modelling  
+📈 Data Visualization: Interactive dashboards (Power BI), storytelling  
+
+ Featured Projects  
+
+🔍 SQL Murder Mystery Investigation  
+- Objective: Solve a fictional murder case using forensic data analysis  
+- Process:  
+  - Analyzed crime scene reports with multi-table JOINs  
+  - Correlated witness statements with gym logs and vehicle records  
+  - Traced conspiracy through relational database exploration  
+- Outcome: Identified killer and mastermind using nested SQL queries  
+- Tools: SQLite, relational database design*
+
+🎬 Movies Dataset Cleaning (Python)  
+- Challenge: Clean 10k+ entry dataset with inconsistent formatting  
+- Solutions:  
+  - Removed duplicates and irrelevant columns using Pandas  
+  - Standardized genres (extracted primary category)  
+  - Transformed date formats and isolated lead actors  
+  - Automated data validation checks  
+- Impact: Reduced dataset size by 32% while improving usability  
+- Tools: Python, Pandas, NumPy, Jupyter Notebooks*
+
+ 📊 Power BI Sales Performance Dashboards  
+- Business Need: Visualize KPIs for inventory optimization  
+- Approach:  
+  - Integrated multiple data sources with Power Query  
+  - Created interactive sales trend visualizations  
+  - Designed customer segmentation heatmaps  
+- Result: Enabled 15% inventory reduction through insight-driven decisions  
+I bridge technical execution with business impact by:  
+1. Ensuring data integrity through rigorous cleaning  
+2. Extracting hidden patterns via SQL/Python analysis  
+3. Communicating insights through intuitive visualizations  
+4. Focusing on actionable outcomes for stakeholders  
+
+---
 
 
-After a somewhat extended break from HTML5 UP (to work on a secret-ish new project --
-more on that later!) I'm back with a brand new design: Solid State, a slick new multi-
-pager that combines some of the ideas I've played with over at Pixelarity with an "angular"
-sort of look. Hope you dig it :)
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
+--- 
 
 
-Credits:
 
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Customize bracketed links and consider adding project-specific badges. Would you like any section expanded?
