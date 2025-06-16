@@ -1,5 +1,5 @@
 Data Analytics Portfolio  
-**Transforming raw data into actionable insights**  
+Transforming raw data into actionable insights  
 
 Technical Skills  
 🐍 Python: Data cleaning (Pandas, NumPy), automation, and analysis  
